@@ -1,9 +1,6 @@
-# Title of your Project: Project Proposal 
+# The Issue of Stereotypes in Western Media: Project Proposal 
 ## Code name
 SIM
-
-## Project title:
-The Issue of Stereotypes in Western Media 
 
 ## Authors: 
 Heran Mengisteab
@@ -22,7 +19,7 @@ _cth23@uw.edu_
 ## Affiliation:
 INFO-201: Technical Foundations of Informatics - The Information School - University of Washington
 
-##Date: 
+## Date: 
 Winter 2022
 
 
@@ -41,18 +38,23 @@ Stereotypes regarding race and gender are a big issue in western media. Not only
 The topic of concern which we hope to gain more knowledge, and data for is the stereotyping of gender and race through western media. 
 
 **What are the key elements of the topic?**
+
 The key elements of stereotypes found in Television, Movies, and Advertisements are racism, discrimination, bias, and bullying. 
 
 **What are the key scientific, cultural, social, governmental, or economic issues or questions?**
+
 The key social issues and impacts of stereotyping is that many individuals may be discriminated against due to another individuals false perception of them. Through watching media at a young age, many individuals may imprint an idea or an impression of a group of people due to the way they are shown in cinema. Implicit bias can also occur due to the imprinted idea of certain groups with a common identity. Unknowingly, seeing similar characters with similar characteristics in media over and over again can cause an audience to view those individuals and categorize all of them in that way.
 
 **Human values**
+
 The human values that are connected to the western media's perception of gender and people of color,  are inclusion and respect. These values originate with the idea of appealing to a greater audience, and allowing more individuals to connect with positive perceptions of people of their same identity groups. Media is supposed to inspire all individuals, especially western media which appeals to a diverse audience. 
 
 **Stakeholders**
+
 Direct Stakeholders regarding stereotypes and creating characters in western media are writers, character artists, directors and producers. These individuals are motivated by creating a project for a greater audience which will allow all people to be able to relate and feel inspired by the characters. The indirect stakeholders are the audience watching the media. They are indirect stakeholders because they are affected by the change through a switch in perspective of individuals as well as those minority groups who are usually stereotypes in media will start to face less bias and discrimination. 
 
 **Benefits and Harms**
+
 There could be a lot of benefits and harms with interventions taken to get rid of stereotypes in Hollywood. Bringing in more diversity into the film industry to get more individuals to look over character creations and story productions will allow for a decline in privilege hazard, bias, and racism when creating characters for a greater audience. Some harms of this could be many individuals disagreeing with what is racist and what is not or what is okay to put and what is not because there is not really a right or wrong answer. Some unanticipated consequences could be that some individuals could feel that the diversity is too forced and the media has become to progressive too fast. Some individuals may also feel like due to sudden change they don't enjoy the media as much because of how careful, sensitive and unrelatable.
 
 ## 3.0 Research:

@@ -1,6 +1,4 @@
 # Title of your Project: Project Proposal 
-
-|Element | Brief Description|
 ## Code name
 SIM
 

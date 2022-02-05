@@ -37,6 +37,7 @@ Stereotypes regarding race and gender are a big issue in western media. Not only
 
 ## 2.0 Design Situation:
 **Framing the topic of concern. What is the topic of concern, problem domain or design situation?**
+
 The topic of concern which we hope to gain more knowledge, and data for is the stereotyping of gender and race through western media. 
 
 **What are the key elements of the topic?**
@@ -67,6 +68,7 @@ Stereotypes are generalizations that are assigned to groups of people. These gro
 ## 4.0 The Dataset See Design:**
 [When deciding what movie to watch, how important are the following? The
 movie avoids racial stereotypes.](https://morningconsult.com/wp-content/uploads/2019/05/190524_crosstabs_HOLLYWOOD_Adults_v1.pdf _**(starts on page 137)**_)
+
 This data comes from an online survey which received 2,201 responses, all of which were of at least 18 years of age. This survey asked: _"When deciding what movie to watch, how important are the following? The movie avoids racial stereotypes."_ Thus, one observation equates to one person's response to this question. Respondents picked between five options: "very important," "somewhat important," "not that important," "not important at all," and "don't know/no opinion." These responses are grouped based on the participant's race, ethnicity, religious beliefs, employment status, age, political standing, and more. In other words, many people from vastly different backgrounds are represented in this dataset.
 
 This data was collected by The Hollywood Reporter and Morning Consult, and published by The Morning Consult, in May 2019. While not explicitly stated, the purpose of the study as a whole seems to be to gauge how people of different religious, political, and employment backgrounds consume media and partake in various lifestyles. Considering the involvement of The Hollywood Reporter, the data collection effect was likely funded by that publication so that they could better share the study's findings as a part of their news offerings, and make more accurate conclusions about the state of the industries in question. Therefore, The Hollywood Report is likely to benefit from the data, as it improves their ability to make justifiable claims about various entertainment industries. Moreover, this dataset may give THR more ideas for news to publish, meaning that they will likely make money from the data. Unfortunately, it is hard to confirm whether the data is completely reliable and trustworthy, as the online survey format allows people to easily provide false information for the data collectors. More specifically, the source I linked states: "Results from the full survey have a margin of error of plus or minus 2 percentage points." However, the sample size appears is large enough that individual errors are not likely to change anyone's analysis of the data, nor is it likely to lead our group to reach false conclusions in the making of this project. I obtained this data through the website statista, which linked to the far more extensive pdf we will use for our project. I found the aforementioned statista page by searching for information on racial stereotypes in google's dataset search webstie.
@@ -80,12 +82,19 @@ Some of the limitations that might need to be addressed are the instances in whi
 
 ## Resources: MLA Format
 _Yuen, Nancy Wang. "How Racial Stereotypes in Popular Media Affect People - and What Hollywood Can Do to Become More Inclusive." Scholars Strategy Network, 4 June 2019, https://scholars.org/contribution/how-racial-stereotypes-popular-media-affect-people-and-what-hollywood-can-do-become._
+
 _Nittle, Nadra Kareem. "Persistent Racial Stereotypes in TV Shows and Movies." ThoughtCo, ThoughtCo, 13 Dec. 2020, https://www.thoughtco.com/common-racial-stereotypes-in-movies-television-2834718. _
+
 _"How Stereotypes in Movies and on TV Impact Kids' Development [Downloadable]." CHC Resource Library, https://www.chconline.org/resourcelibrary/stereotypes-movies-tv-impact-kids-development-downloadable/._
+
 _"Exploring Stereotypes with American Film and Television." TeachMideast, https://teachmideast.org/lesson_plans/exploring-stereotypes-with-american-film-and-television/._
 _"Films/Videos for Teaching School of Communication Topics: Stereotyping and Cultural Representation in the Media and Popular Culture." American University, https://subjectguides.library.american.edu/c.php?g=175267&p=2788310._
+
 _Leonard, Kim. "Stereotypes in Movies and How Filmmakers Can Avoid Them." StudioBinder, 5 Dec. 2019, https://www.studiobinder.com/blog/stereotypes-in-movies/. _
 _Schacht, Kira. "What Hollywood Movies Do to Perpetuate Racial Stereotypes." DW.COM, 21 Feb. 2019, https://www.dw.com/en/hollywood-movies-stereotypes-prejudice-data-analysis/a-47561660._
+
 _Gonchar, Michael. "26 Mini-Films for Exploring Race, Bias and Identity With Students." The New York Times, 15 Mar. 2017, https://www.nytimes.com/2017/03/15/learning/lesson-plans/25-mini-films-for-exploring-race-bias-and-identity-with-students.html. _
+
 _Somvichian-Clausen, Austa. "Top 10 Films That Break Gender and Racial Stereotypes." The Hill, 9 Dec. 2019, https://thehill.com/changing-america/respect/diversity-inclusion/473687-top-10-films-that-break-gender-and-racial._
+
 _"National Tracking Poll #190524." https://morningconsult.com/wp-content/uploads/2019/05/190524_crosstabs_HOLLYWOOD_Adults_v1.pdf. Accessed 4 Feb. 2022. Morning Consult, May 2019._ 

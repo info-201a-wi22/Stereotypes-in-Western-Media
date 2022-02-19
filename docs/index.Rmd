@@ -109,7 +109,7 @@ This chart shows the differences in how different age groups perceive the import
 source("../source/chart3.R")
 Chart 3
 ```
-
+The purpose of this chart is show the difference in the level of importance people have about their identity being accurately portrayed in media and film based on age groups. Each dot on the graph shows the percentage of people in that age group who specifically didn't find it important at all whether or not their identity was correctly portrayed or not. The line connecting the dots also shows the general change in level between the groups which can allow us to find correlations and trends within the data. One conclusion that we can see and make from the data itself is that as people get into their older years after around the age of 50, there is a less overall sense of care and importance of ones identity portrayal. In contrast however, we also from the graph can say the opposite in that younger people care far more as the first age group has the lowest percentage value out of all the groups on the graph.
 
 
 ## Resources: MLA Format

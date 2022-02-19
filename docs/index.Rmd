@@ -78,7 +78,7 @@ The information we have gathered touches on multiple aspects and effects of ster
 <hr/>
 
 ```{r, eval = TRUE, echo = FALSE}
-source("../source/summary_information_table.R")
+source("../source/table_summary_information.R")
 library(knitr)
 ```
 
@@ -96,8 +96,8 @@ Including a chart about the amount of individuals who feel that it is important 
 <hr/>
 
 ```{r, eval = TRUE, echo = FALSE}
-source("../source/chart2.R")
-Chart 2
+source("../source/piechart.R")
+piechart
 ```
 This chart shows the differences in how different age groups perceive the importance of avoiding racial stereotypes in media. The size of each portion of the pie chart was determined by the proportion of each group that believed avoiding stereotypes was “very important” according to our dataset. Therefore, this chart tells us that as respondents’ age increases, their concern over stereotypes in media decreases. In other words, younger people believe that it is very important for pieces of media to avoid racial stereotypes, whereas older people do not care as much.
 

@@ -1,6 +1,13 @@
+
 # The Issue of Stereotypes in Western Media: Project Proposal 
 ## Code name
 SIM
+---
+title: "Stereotypes in Western Media"
+author: "Heran Mengisteab, Anchal Kohli, Carter Raaen, Caden Henson"
+date: "2/18/2022"
+output: html_document
+---
 
 ## Authors: 
 Heran Mengisteab
@@ -14,6 +21,10 @@ _craaen@uw.edu_
 
 Caden Henson
 _cth23@uw.edu_
+
+```{r}
+source("p01-propsal.R")
+```
 
 
 ## Affiliation:

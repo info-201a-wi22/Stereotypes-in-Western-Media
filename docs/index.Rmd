@@ -79,6 +79,7 @@ The information we have gathered touches on multiple aspects and effects of ster
 
 ```{r, eval = TRUE, echo = FALSE}
 source("../source/table_summary_information.R")
+data_table_new
 library(knitr)
 ```
 

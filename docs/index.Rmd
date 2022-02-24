@@ -88,8 +88,8 @@ library(knitr)
 <hr/>
 
 ```{r, eval = TRUE, echo = FALSE}
-#source("../source/Chart1.R")
-#chart_one
+source("../source/Chart1.R")
+chart_one
 ```
 Including a chart about the amount of individuals who feel that it is important to get rid of stereotypes within the race of characters was incredibly important to include because we are getting data straight from individuals of different points of view. The demographics include ethnicity, gender, sexuality, age, and generation, all of which are important parts of identity to consider when talking about the different ways media portrays certain groups of people. When seeking data and getting a better understanding of the issues in society, it’s important to ask all different kinds of people of different perspectives because only then are we able to get to the root of the problem and fix it. An important observation from the data is the amount of white individuals who felt it was important to get rid of stereotypes within the media. The percentage comparison to ethnicities like Hispanic and African American were much higher. White individuals voting to get rid of stereotypes in the media was 18% while Hispanics was 11% and African Americans were 14%. This surprised me the most because the majority of the stereotypes in the media are characters who are people of color. 
 

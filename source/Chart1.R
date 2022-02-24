@@ -9,10 +9,10 @@ View(race_of_characters)
 roc_data <- race_of_characters[32:35,]
 View(roc_data)
 
-demographic <- roc_data$Ã¯..demographic
+demographic <- roc_data$ï..demographic
 value <- roc_data$very_important
 
-most_importantance <- roc_data[, c("Ã¯..demographic", "very_important")]
+most_importantance <- roc_data[, c("ï..demographic", "very_important")]
 #View(total_importantance)
 
 

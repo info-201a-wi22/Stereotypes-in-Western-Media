@@ -15,6 +15,4 @@ chart_three <- ggplot(data = data2,
                      y = percentage_value, group=1)) + 
     labs(title = "Representation of Identity (Not at all Important) based on Age") +
     geom_point(size = 3) +
-    geom_line(colour = "red")
-      
-    
+    geom_line(color = "Red")

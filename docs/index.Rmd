@@ -70,7 +70,7 @@ Some of the limitations that might need to be addressed are the instances in whi
 <hr/>
 
 ```{r, include = FALSE}
-source("../source/summary_information.R")
+#source("../source/summary_information.R")
 ```
 The information we have gathered touches on multiple aspects and effects of stereotypes in media, and how they translate into society. The first component the database addresses is the importance of accurate representation of identity to Americans. When deciding how important accurate representation of ethnicity is, only 16% of independent women believe it is very important. The second component is avoiding common stereotypes in the media. About 36% of African American individuals believe it's very important to avoid stereotypes in the media. While 23% of females feel it is important to avoid stereotypes about women in television and movies. The actors being the same race as the characters they are acting as is another important element, 18% of generation Z (18-22) believe this very important. The last component that we believe is important to consider is the different demographics and how they relate to the media and the characters represented. About 27% of Asian individuals did not feel like the movies and television shows reflected an authentic experience for them. For each database there are subsections which break down information and responses from each demographic. The subsections include age, race, generations, gender, ethnicity, religion, employment status, and political preference. 
 
@@ -79,6 +79,7 @@ The information we have gathered touches on multiple aspects and effects of ster
 
 ```{r, eval = TRUE, echo = FALSE}
 source("../source/table_summary_information.R")
+data_table_new
 library(knitr)
 ```
 
@@ -88,7 +89,7 @@ library(knitr)
 
 ```{r, eval = TRUE, echo = FALSE}
 source("../source/Chart1.R")
-Chart1
+chart_one
 ```
 Including a chart about the amount of individuals who feel that it is important to get rid of stereotypes within the race of characters was incredibly important to include because we are getting data straight from individuals of different points of view. The demographics include ethnicity, gender, sexuality, age, and generation, all of which are important parts of identity to consider when talking about the different ways media portrays certain groups of people. When seeking data and getting a better understanding of the issues in society, it’s important to ask all different kinds of people of different perspectives because only then are we able to get to the root of the problem and fix it. An important observation from the data is the amount of white individuals who felt it was important to get rid of stereotypes within the media. The percentage comparison to ethnicities like Hispanic and African American were much higher. White individuals voting to get rid of stereotypes in the media was 18% while Hispanics was 11% and African Americans were 14%. This surprised me the most because the majority of the stereotypes in the media are characters who are people of color. 
 
@@ -97,7 +98,7 @@ Including a chart about the amount of individuals who feel that it is important 
 
 ```{r, eval = TRUE, echo = FALSE}
 source("../source/piechart.R")
-piechart
+pie
 ```
 This chart shows the differences in how different age groups perceive the importance of avoiding racial stereotypes in media. The size of each portion of the pie chart was determined by the proportion of each group that believed avoiding stereotypes was “very important” according to our dataset. Therefore, this chart tells us that as respondents’ age increases, their concern over stereotypes in media decreases. In other words, younger people believe that it is very important for pieces of media to avoid racial stereotypes, whereas older people do not care as much.
 
@@ -107,9 +108,9 @@ This chart shows the differences in how different age groups perceive the import
 
 ```{r, eval = TRUE, echo = FALSE}
 source("../source/chart3.R")
-Chart 3
+chart_three
 ```
-
+The purpose of this chart is show the difference in the level of importance people have about their identity being accurately portrayed in media and film based on age groups. Each dot on the graph shows the percentage of people in that age group who specifically didn't find it important at all whether or not their identity was correctly portrayed or not. The line connecting the dots also shows the general change in level between the groups which can allow us to find correlations and trends within the data. One conclusion that we can see and make from the data itself is that as people get into their older years after around the age of 50, there is a less overall sense of care and importance of ones identity portrayal. In contrast however, we also from the graph can say the opposite in that younger people care far more as the first age group has the lowest percentage value out of all the groups on the graph.
 
 
 ## Resources: MLA Format

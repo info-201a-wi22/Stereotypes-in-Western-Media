@@ -27,12 +27,12 @@ ggplot(data = roc_data) +
 server <- function(input, output) {
   output$bar <- renderPlotly({
     colnames(importance) <- c("demographic", "very_important" , "somewhat_important")
-      chart <- ggplot(data = importance) +
-        geom_col(mapping = aes(x = demographic, y = .data[[input$type]]),
-                 color = input$color_choice) +
-        labs(x = "Demographic", y = input$type)
-      
-          return(chart)
+    chart <- ggplot(data = importance) +
+      geom_col(mapping = aes(x = demographic, y = .data[[input$type]]),
+               color = input$color_choice) +
+      labs(x = "Demographic", y = input$type)
+    
+    return(chart)
   })
   
 }

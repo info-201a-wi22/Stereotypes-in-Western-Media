@@ -7,20 +7,21 @@ race_of_characters <- read.csv("https://raw.githubusercontent.com/info-201a-wi22
 
 roc_data <- race_of_characters[32:35,]
 
+demographic <- roc_data$demographic
+value <- roc_data$very_important 
 
-demographic <- roc_data$ï..demographic
-value <- roc_data$very_important
+y = c(value)
+value2 <- y[order(y)]
+demographic2 <- c("White", "Hispanic", "African American", "Other")
 
 importance <- roc_data[, c("demographic", "very_important", "somewhat_important")]
 
-most_importantance <- roc_data[, c("demographic", "very_important")]
 
-ggplot(data = most_importantance) +
-  geom_col(mapping = aes(x = demographic, y = value)) +
-  theme_bw() +
-  labs(x = "Demographic",
-       y = "% Very Important",
-       title = "Percent of Each Race Who Responded Very Important")
+ggplot(data = roc_data) +
+  geom_col(mapping = aes(x = demographic , y = value2, fill = demographic2)) +
+  labs(title = "Percent of Each Race Who Responded Very Important", 
+       x = "Demographic",
+       y = "% Very Important") 
 
 
 server <- function(input, output) {
